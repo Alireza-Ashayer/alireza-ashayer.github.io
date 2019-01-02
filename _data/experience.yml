@@ -4,7 +4,9 @@
   dates: September 2017 - Present
   description: | # this will include new lines to allow paragraphs
     Select Research:
+    
     •	User Behavior Analysis: Built a multi-node Hadoop cluster and conducted research on extracting soft-biometric information from swipe and touch data collected from a smartphone application.
+    
     •	Cryptocurrency Modeling: Conducted research on modeling trends in cryptocurrency market based on information publicly available in the Blockchain.
 
 - company: Department of Computer Science, East Carolina University 
@@ -13,9 +15,42 @@
   dates: September 2017 - Present
   description: | # this will include new lines to allow paragraphs
     Select Courses:
+    
     •	CSCI 1010: Algorithmic problem solving
+    
     •	CSCI 2410: Digital electronics
 
+- company: Medrick Studio
+  link: medrick.info 
+  job_title: Technical Lead
+  dates: April 2015 - July 2017
+  description: | # this will include new lines to allow paragraphs
+    •	Lead a team of software engineers in creating new software products and maintaining several projects.
     
+    •	Assisted software development teams of several international partner companies by providing documentation and maintaining constant communication.
+    
+    •	In charge of hiring, training, and the interview process of new software engineers for the company.
+
+- company: Medrick Studio
+  link: medrick.info 
+  job_title: Senior Software Developer
+  dates: June 2013 - April 2015
+  description: | # this will include new lines to allow paragraphs
+    •	Joined the studio as the first software engineer in a newly formed team in order to rapidly design and develop several prototypes.
+    
+    •	Designed and developed the shared business logic of several multiplatform clients using C++.
+    
+    •	Published products on multiple markets including several online applications with more than 5 million active users.
+    
+    •	Designed and developed a low-latency and scalable RESTful API endpoint for applications.
+    
+    •	Built a web service capable of handling HTTP persistent connections from thousands of clients concurrently.
+
+
+  
+
+
+
+
 
 

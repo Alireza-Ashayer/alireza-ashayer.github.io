@@ -6,7 +6,7 @@ repository: Alireza-Ashayer/alireza-ashayer.github.io
 name: Alireza Ashayer
 title: Senior Software Engineer
 email: alireza.ashayer@gmail.com
-website: alireza-ashayer.github.io/
+website: alireza-ashayer.github.io
 
 # Social links
 twitter_username: alireza_256
@@ -48,7 +48,7 @@ educaton_title: Education
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests software design and development, some of my other interests and hobbies are:
+  Alongside my interests in software design and development, some of my other interests and hobbies are:
    - Building model airplanes and rockets
    - Automating stuff using Raspberry Pi
    - Reading and learning about stuff that I will probably never need
