@@ -24,17 +24,15 @@ linkedin_username: alireza-ashayer
 # about_title: About Me
 about_profile_image: images/myprofile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Alireza and I'm a software engineer. I have 4+ years of professional experience developing multiplatform online applications in diverse teams. I have Hands-on experience of software development lifecycle from design and implementation to maintaining products with millions of users
+  Hi, my name's Alireza and I'm a software engineer. I have *4+* years of professional experience developing multiplatform online applications in diverse teams. I have Hands-on experience of software development lifecycle from design and implementation to maintaining products with millions of users
 
-  •	Strengths: <mark>Software design and architecture</mark>, <mark>algorithmic analysis and design</mark>, <mark>RESTful web services</mark>, <mark>MVC</mark>, <mark>OOP</mark>, <mark>TDD</mark>, and <mark>multiplatform application design and implementation</mark>
+  - Strengths: <mark>Software design and architecture</mark>, <mark>algorithmic analysis and design</mark>, <mark>RESTful web services</mark>, <mark>MVC</mark>, <mark>OOP</mark>, <mark>TDD</mark>, and <mark>multiplatform application design and implementation</mark>
+  - Languages: Strong in <mark>C++</mark> and <mark>Java</mark>. Working knowledge of <mark>Python</mark>, <mark>C#</mark>, and <mark>Rust</mark>.
+  - Front-end: <mark>React</mark>, <mark>Redux</mark>, <mark>Babel</mark>, and <mark>Webpack</mark>.
+  - Back-end: <mark>AWS</mark>, <mark>GCP</mark>, <mark>ASP.NET Web API</mark>, and <mark>Node.js</mark>.
+  - Published on: <mark>Windows</mark>, <mark>Android</mark>, and <mark>iOS</mark>.
 
-  •	Languages: Strong in <mark>C++</mark> and <mark>Java</mark>. Working knowledge of <mark>Python</mark>, <mark>C#</mark>, and <mark>Rust</mark>.
-  
-  •	Front-end: <mark>React</mark>, <mark>Redux</mark>, <mark>Babel</mark>, and <mark>Webpack</mark>.
-
-  •	Back-end: <mark>AWS</mark>, <mark>GCP</mark>, <mark>ASP.NET Web API</mark>, and <mark>Node.js</mark>.
-
-  •	Published on: <mark>Windows</mark>, <mark>Android</mark>, and <mark>iOS</mark>.
+  You can download my resume [here]: assets/resume.pdf
 
 # Projects Section
 # projects_title: Projects
