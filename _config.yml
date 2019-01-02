@@ -22,7 +22,7 @@ linkedin_username: alireza-ashayer
 
 # About Section
 # about_title: About Me
-about_profile_image: images/myprofile.jpg
+about_profile_image: images/myprofile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Alireza and I'm a software engineer. I have 4+ years of professional experience developing multiplatform online applications in diverse teams. I have Hands-on experience of software development lifecycle from design and implementation to maintaining products with millions of users
 
