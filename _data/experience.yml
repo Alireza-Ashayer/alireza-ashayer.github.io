@@ -1,8 +1,21 @@
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+- company: Technology Innovation Lab, East Carolina University
+  link: ecu.edu
+  job_title: Research Assistant
+  dates: September 2017 - Present
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Select Research:
+    •	User Behavior Analysis: Built a multi-node Hadoop cluster and conducted research on extracting soft-biometric information from swipe and touch data collected from a smartphone application.
+    •	Cryptocurrency Modeling: Conducted research on modeling trends in cryptocurrency market based on information publicly available in the Blockchain.
+
+- company: Department of Computer Science, East Carolina University 
+  link: ecu.edu
+  job_title: Instructor
+  dates: September 2017 - Present
+  description: | # this will include new lines to allow paragraphs
+    Select Courses:
+    •	CSCI 1010: Algorithmic problem solving
+    •	CSCI 2410: Digital electronics
+
+    
+
+

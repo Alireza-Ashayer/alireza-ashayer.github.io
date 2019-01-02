@@ -1,50 +1,57 @@
 # Site
-repository: sproogen/resume-theme
+repository: Alireza-Ashayer/alireza-ashayer.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Alireza Ashayer
+title: Senior Software Engineer
+email: alireza.ashayer@gmail.com
+website: alireza-ashayer.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: alireza_256
+github_username:  alireza-ashayer
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: alireza.ashayer
+linkedin_username: alireza-ashayer
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Alireza and I'm a software engineer. I have 4+ years of professional experience developing multiplatform online applications in diverse teams. I have Hands-on experience of software development lifecycle from design and implementation to maintaining products with millions of users
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  •	Strengths: <mark>Software design and architecture</mark>, <mark>algorithmic analysis and design</mark>, <mark>RESTful web services</mark>, <mark>MVC</mark>, <mark>OOP</mark>, <mark>TDD</mark>, and <mark>multiplatform application design and implementation</mark>
+
+  •	Languages: Strong in <mark>C++</mark> and <mark>Java</mark>. Working knowledge of <mark>Python</mark>, <mark>C#</mark>, and <mark>Rust</mark>.
+  
+  •	Front-end: <mark>React</mark>, <mark>Redux</mark>, <mark>Babel</mark>, and <mark>Webpack</mark>.
+
+  •	Back-end: <mark>AWS</mark>, <mark>GCP</mark>, <mark>ASP.NET Web API</mark>, and <mark>Node.js</mark>.
+
+  •	Published on: <mark>Windows</mark>, <mark>Android</mark>, and <mark>iOS</mark>.
 
 # Projects Section
 # projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests software design and development, some of my other interests and hobbies are:
+   - Building model airplanes and rockets
+   - Automating stuff using Raspberry Pi
+   - Reading and learning about stuff that I will probably never need
 
 # Footer
 footer_show_references: true
