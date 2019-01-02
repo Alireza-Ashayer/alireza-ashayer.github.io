@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Back-end: <mark>AWS</mark>, <mark>GCP</mark>, <mark>ASP.NET Web API</mark>, and <mark>Node.js</mark>.
   - Published on: <mark>Windows</mark>, <mark>Android</mark>, and <mark>iOS</mark>.
 
-  You can download my resume [here](./assets/resume.pdf)
+  You can download my resume [here](./files/resume.pdf)
 
 # Projects Section
 # projects_title: Projects
